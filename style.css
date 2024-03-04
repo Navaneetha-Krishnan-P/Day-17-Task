@@ -1,0 +1,23 @@
+body{
+    background-color: steelblue;
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+    margin:50px 100px 100px 200px;
+    row-gap: 50px;
+}
+div{
+    text-align: center;
+    padding: 20px;
+}
+.card{
+    background-color: lightgray;
+    box-shadow: 5px;
+}
+
+a{
+    color: black;
+}
+button{
+    background-color: steelblue;
+}
